@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Pandas-Data-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Matplotlib-Charts-11557C?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Kaggle-Ready-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Dataset-BDD100K-2E7D32?style=for-the-badge" alt="BDD100K"/>
 </p>
 
 **[📌 Overview](#-overview) • [🧠 How it works](#-how-it-works) • [🏆 Results](#-results) • [📊 Charts](#-charts) • [⚠️ Limitations](#️-limitations) • [💻 Run it](#-run-it-yourself)**
@@ -200,7 +200,7 @@ The project uses the Kaggle dataset **Driving Video with Object Tracking** (BDD1
 
 ```bash
 # 1️⃣ clone
-git clone https://github.com/<your-username>/Driving-Scene-Object-Detection.git
+git clone https://github.com/sabakhalil806-collab/Driving-Scene-Object-Detection.git
 cd Driving-Scene-Object-Detection
 
 # 2️⃣ install
@@ -238,7 +238,7 @@ CONF         = 0.25                       # 🎚️ detection threshold
 <div align="center">
 
 ### 👩‍💻 Author
-**AI / Machine Learning & Computer Vision Portfolio Project**
+**[sabakhalil806-collab](https://github.com/sabakhalil806-collab)** · Computer Vision portfolio project
 
 ⭐ If you found this useful, please **star** the repository! ⭐
 
