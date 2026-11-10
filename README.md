@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Driving%20Scene%20Detection%20%26%20Tracking&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=OpenCV%20%7C%20YOLOv8n%20%7C%20ByteTrack&descAlignY=58&descSize=18" alt="banner"/>
+<img src="assets/banner.svg" alt="Driving Scene Detection and Tracking banner" width="100%"/>
 
 ### 🚗 🚦 🚌 🚚 🚶 &nbsp;Seeing the road the way a self-driving car does&nbsp; 🛣️
 
@@ -241,7 +241,5 @@ CONF         = 0.25                       # 🎚️ detection threshold
 **[sabakhalil806-collab](https://github.com/sabakhalil806-collab)** · Computer Vision portfolio project
 
 ⭐ If you found this useful, please **star** the repository! ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer"/>
 
 </div>
