@@ -242,4 +242,6 @@ CONF         = 0.25                       # 🎚️ detection threshold
 
 ⭐ If you found this useful, please **star** the repository! ⭐
 
+<img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/>
+
 </div>
