@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Model weights (downloaded automatically by Ultralytics)
+*.pt
+*.onnx
+
+# Datasets and videos (do not upload)
+*.mov
+*.mp4
+*.avi
+data/
+datasets/
+runs/
+
+# Files generated when the notebook runs
+frame_metrics.csv
+detections.csv
+processed_*.mp4
+figures/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
